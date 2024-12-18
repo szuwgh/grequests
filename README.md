@@ -1,2 +1,2 @@
-# kreq
+# grequests
 Go HTTP client
